@@ -21,7 +21,7 @@ youtube_code: OJiItfo8Hx8
 
 {% include youtube.html %}
 
-In today’s market, inventory continues to be low, but the same isn’t true for buyer demand.
+<p style="text-align: center;"><em>In today’s market, inventory continues to be low, but the same isn’t true for buyer demand.</em></p>
 
 In the here and now, our market’s inventory is in shorter supply, which is creating the occasional multiple-offer situation. Two questions, in particular, have come about as a result: What should buyers do with the current state of play? And how does it impact sellers?&nbsp;
 
