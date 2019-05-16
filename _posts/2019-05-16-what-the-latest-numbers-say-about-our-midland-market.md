@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Latest Numbers Say About Our Midland Market
-date: 2019-05-16 19:30:10
+date: 2019-05-16 19:30:00
 tags:
   - Market Update
 excerpt: >-
