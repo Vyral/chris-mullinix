@@ -13,8 +13,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/market-update-youtube.jpg
-youtube_code: Ixg0EDHPZv0
+youtube_alternate_image: /uploads/market-update-take-2-youtube.jpg
+youtube_code: 7kH9EnH8VUo
 ---
 
 {% include youtube.html %}
