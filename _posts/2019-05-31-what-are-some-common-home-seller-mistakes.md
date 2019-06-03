@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Some Common Home Seller Mistakes?
-date: 2019-05-31 17:26:04
+date: 2019-05-31 17:26:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -27,7 +27,7 @@ I work with a lot of home sellers, and I’ve seen many of them make mistakes th
 
 {% include pullquote.html %}
 
-**3\. Failing to make repairs.** There are certain repairs that you can get away with not making, but there are some deal-breakers that you’ll need to take care of. Make sure your roof is in proper working order.
+**3\. Failing to make repairs.** There are certain repairs that you can get away with not making, but there are some deal-breakers that you’ll need to take care of. For example. make sure your roof is in proper working order.
 
 **4\. Neglecting to declutter.** Minimizing the clutter and personal items in your home is essential. Make sure it’s very clean and smells nice, too.
 
