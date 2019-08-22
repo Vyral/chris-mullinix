@@ -23,7 +23,7 @@ youtube_code: 42G5GPzD824
 
 We see this scenario all the time in our market: Someone needs to buy and sell a home at the same time.&nbsp;
 
-Usually, the homeowner(s) in question needs to sell first and then buy because they have a growing family and need to upsize to a home with a little more legroom. If you need to pull off a simultaneous transaction to move, there are a couple ways to do it.&nbsp;
+Usually, the homeowner(s) in question needs to sell first and then buy because they have a growing family and need to upsize to a home with a little more legroom. If you need to pull off a simultaneous transaction to move, there are a couple ways to do it.
 
 **The first is buying your new home before selling your current one.** This way, you can avoid the headache of needing to sell your current home before buying your next one. You should talk with your lender first to see if this is doable, though, because most people need the proceeds from their home sale to make their next purchase.&nbsp;
 
