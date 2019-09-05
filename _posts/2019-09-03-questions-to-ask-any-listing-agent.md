@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questions to Ask Any Listing Agent
-date: 2019-09-03 20:33:50
+date: 2019-09-03 20:33:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -25,7 +25,7 @@ Before hiring an agent to help you sell your home, there are a few key questions
 
 **1\. “What kind of experience do you have?”** Any agent can wax poetic about their bona fides, but a high-quality agent will be able to prove their level of experience by sharing specific information about not only how long they’ve been in the industry, but also how many homes they’ve helped close.&nbsp;
 
-**2\. “What is your average list-to-sales price ratio?”** It’s one thing to sell a home, and another thing entirely to sell a home for a favorable price. When you hire an agent, they should ideally have a track record of selling homes at or above list price more frequently than other agents in the area.&nbsp;
+**2\. “What is your average list-to-sale price ratio?”** It’s one thing to sell a home, and another thing entirely to sell a home for a favorable price. When you hire an agent, they should ideally have a track record of selling homes at or above list price more frequently than other agents in the area.&nbsp;
 
 {% include pullquote.html %}
 
