@@ -32,4 +32,4 @@ I can understand the reasoning behind this strategy, but **you’re much more li
 
 In future videos, I’ll talk more about the various pricing strategies I see sellers apply to their homes and the inaccuracy of online valuation websites like Zillow, so stay tuned.&nbsp;
 
-In the meantime, if you’d like to know your home’s market value or you’d like to talk more about what our market shift means for you.
+In the meantime, if you’d like to know your home’s market value or you’d like to talk more about what our market shift means for you call or send me an email. I would love to help.
