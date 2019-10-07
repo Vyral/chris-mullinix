@@ -21,7 +21,7 @@ youtube_code: ieY-2GBjUYg
 
 As a home seller, no matter what price range your home falls under, **the most important thing you can do in terms of pricing strategy is to price it correctly.&nbsp;**
 
-If your home isn’t priced correctly, it won’t sell. This advice is especially important considering we’re in the middle of a market shift.
+If your home isn’t priced correctly, it won’t sell. This is especially important considering we’re in the middle of a market shift.
 
 The most popular pricing strategy I see home sellers apply is pricing their property slightly above market value. The idea here is to leave room for negotiating and, if need be, eventually reduce the price back down to market value once buyers start making offers.
 
