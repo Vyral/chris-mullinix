@@ -9,7 +9,7 @@ excerpt: >-
   to price the home correctly.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Chris+Mullinix/Videos/2019/September/The+Best+Pricing+Strategy+You+Can+Apply+to+Your+Home+Sale.mp4
-pullquote: "If your home\_isn’t priced correctly, it won’t sell."
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -21,11 +21,7 @@ youtube_code: ieY-2GBjUYg
 
 As a home seller, no matter what price range your home falls under, **the most important thing you can do in terms of pricing strategy is to price it correctly.&nbsp;**
 
-If your home isn’t priced correctly, it won’t sell. This is especially important considering we’re in the middle of a market shift.
-
 The most popular pricing strategy I see home sellers apply is pricing their property slightly above market value. The idea here is to leave room for negotiating and, if need be, eventually reduce the price back down to market value once buyers start making offers.
-
-{% include pullquote.html %}
 
 I can understand the reasoning behind this strategy, but **you’re much more likely to generate a multiple-offer situation if you price your home exactly at its market value.** The more buyers you have competing for your listing, the more likely you’ll get an offer above its market value.&nbsp;
 
