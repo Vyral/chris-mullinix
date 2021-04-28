@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3 Tips for Preparing Your Home for the Market
-date: 2021-04-28 20:28:21
+date: 2021-04-28 20:28:00
 tags:
   - Home Seller Tips
 excerpt: These three tips will guide you to a better home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Mullinix/Videos/2021/3+Tips+for+Preparing+Your+Home+for+the+Market.mp4
 pullquote: >-
   The last thing you want to do is stick a sign in your front yard and hope it
   sells.
